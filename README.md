@@ -4,4 +4,4 @@ The goal here is to compile a comprehensive list of coding challenges for interm
 
 Feel free to drop challenging code snippets (from a project you're doing) that others may benefit from reading it.
 
-If you add a file, use the format: *type of debugging error i.e syntax*_*language*_*number*
+If you add a file, use the format: "type of debugging error i.e syntax"_"language"_'number'
