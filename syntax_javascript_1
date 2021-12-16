@@ -1,0 +1,11 @@
+Where is the syntax error?
+
+objects = {
+  [protagonist : new character(30,30,"red",30,170)],
+  [obstacle1 : new character(15, 30, "brown", 200, 170)],
+  [landscape : new character(480, 270, "green", 0, 200)]
+}
+
+{} is used for objects
+[] is used for arrays,
+[] should be removed, replaced with {} to make an object of objects
